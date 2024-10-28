@@ -1,6 +1,8 @@
 # Prueba técnica Encode
 
 Prueba técnica para ENCODE SA realizada con Node.js, Express, GraphQL, Apollo Server y MongoDB.
+Esta prueba consiste en un CRUD de usuario con campos ID, name, email y password.
+Entregando la posibilidad de crear, editar, eliminar, listar, buscar por id y logearse con dichos usuarios.
 
 ## Requisitos Previos
 
