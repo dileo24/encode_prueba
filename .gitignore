@@ -1,0 +1,39 @@
+# Node modules
+node_modules/
+
+# Compiled output
+dist/
+build/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# Docker files
+docker-compose.override.yml
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# TypeScript files (if you do not want to track generated JS files)
+*.tsbuildinfo
+
+# Other files
+package-lock.json
+yarn.lock
